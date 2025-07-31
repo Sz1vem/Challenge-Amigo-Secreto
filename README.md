@@ -1,6 +1,6 @@
 Challenge Amigo Secreto
 
-- Estado de Proyecto: Terminado
+- Estado de Proyecto: Terminado y Entregado
 
  Para ejecutar el sistema, debes poner:
  - Nombre cualquiera (Mínimo 2 personas)
